@@ -1,0 +1,2 @@
+rootProject.name='AddToScrapbox'
+include ':app'
