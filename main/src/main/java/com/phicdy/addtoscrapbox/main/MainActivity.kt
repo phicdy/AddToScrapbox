@@ -1,4 +1,4 @@
-package com.phicdy.addtoscrapbox
+package com.phicdy.addtoscrapbox.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
