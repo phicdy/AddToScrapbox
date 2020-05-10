@@ -1,3 +1,4 @@
 rootProject.name='AddToScrapbox'
 include ':app'
 include ':main'
+include ':core'
