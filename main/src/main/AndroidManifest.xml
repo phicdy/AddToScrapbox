@@ -1,2 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.phicdy.addtoscrapbox.main" />
+    package="com.phicdy.addtoscrapbox.main">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
